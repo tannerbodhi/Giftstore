@@ -1,0 +1,6 @@
+{
+  "name": "Giftstore",
+  "description": "An on-chain gift voucher tool built on Arc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
